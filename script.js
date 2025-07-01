@@ -480,7 +480,7 @@ const stationInfo = {
   [globe]:
     '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304644470833094664.mp4?v=1729498739200" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [eye]:
-    '<video src="/videos/London%20Eye.mp4?v=1729499047171" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/London%20Eye.mp4?v=1729499047171" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [shard]:
     '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/Shard%202.mp4?v=1729586253920" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [palace]:
