@@ -470,35 +470,35 @@ const locationNames = {
 
 const stationInfo = {
   [trafalgar]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304142599903195139.mp4?v=1729414457400" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304142599903195139.mp4?v=1729414457400" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [orbit]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304330470723366916.mp4?v=1729423289277" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304330470723366916.mp4?v=1729423289277" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [bridge]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304327380184010756.mp4?v=1729423795897" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304327380184010756.mp4?v=1729423795897" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [museum]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304374034308206596.mp4?v=1729431564453" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304374034308206596.mp4?v=1729431564453" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [globe]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/304644470833094664.mp4?v=1729498739200" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304644470833094664.mp4?v=1729498739200" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [eye]:
     '<video src="videos/London%20Eye.mp4?v=1729499047171" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [shard]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/Shard%202.mp4?v=1729586253920" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/Shard%202.mp4?v=1729586253920" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [palace]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/305070507106709513.mp4?v=1729593571745" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/305070507106709513.mp4?v=1729593571745" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [albert]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/305120562429759497.mp4?v=1729629794528" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/305120562429759497.mp4?v=1729629794528" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [wembley]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/305480621391319045.mp4?v=1729697440709" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/305480621391319045.mp4?v=1729697440709" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [market]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/305788378434760704.mp4?v=1729783224530" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/305788378434760704.mp4?v=1729783224530" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [nhm]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/nhm.mp4?v=1729783456344" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/nhm.mp4?v=1729783456344" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [pic]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/306142575340564485.mp4?v=1729858935616" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/306142575340564485.mp4?v=1729858935616" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [power]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/Untitled%20design.mp4?v=1730034761277" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/Untitled%20design.mp4?v=1730034761277" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [dome]:
-    '<video src="https://cdn.glitch.global/be3a6f3e-c7c5-4e7a-859d-dc152b1863e5/307290099917025281.mp4?v=1730151784135" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/307290099917025281.mp4?v=1730151784135" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   
 };
 
